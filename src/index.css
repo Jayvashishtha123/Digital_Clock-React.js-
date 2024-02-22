@@ -26,3 +26,10 @@ body{
   text-shadow: 3px 3px 5px black;
 
 }
+
+h1{
+  text-align:center;
+  color: aquamarine;
+  font-size: 5rem;
+  padding-top: 0%;
+}

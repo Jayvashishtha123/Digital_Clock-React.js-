@@ -30,7 +30,9 @@ function padZero(number){
 }
 
     return(<>
+    <h1>Digital Clock</h1>
     <div className='clock-container'>
+        
    <div className='clock'>
     <span>{formateTime()}</span>
    </div>
